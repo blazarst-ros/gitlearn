@@ -5,3 +5,5 @@ Then Create a new branch is  simple!
 New!!!! 
 
 Trials of no fast forward
+
+I wanna try stash!
